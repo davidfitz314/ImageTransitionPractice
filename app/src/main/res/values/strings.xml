@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageTransitionPractice</string>
+    <string name="owl_flash_cards_title">OWL Flash Cards</string>
+    <string name="enter_text">Enter</string>
+    <string name="second_screen_resource_description">second screen practice</string>
+    <string name="hide_description">Hide</string>
+    <string name="show_description">Show</string>
+    <string name="title_activity_data_display_pages">DataDisplayPages</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
